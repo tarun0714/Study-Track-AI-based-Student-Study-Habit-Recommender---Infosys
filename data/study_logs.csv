@@ -1,0 +1,1001 @@
+log_id,student_id,date,study_hour,subject,method_used,distraction_time,quiz_score,day_name
+1,1066,2025-11-03,3.5,Computer,Pomodoro,9.0,86,Monday
+2,1066,2025-11-04,4.41,English,Notes Review,18.3,66,Tuesday
+3,1066,2025-11-05,2.08,Computer,Flashcards,20.0,69,Wednesday
+4,1066,2025-11-06,3.13,Computer,Notes Review,43.7,95,Thursday
+5,1066,2025-11-07,1.92,English,Notes Review,18.7,50,Friday
+6,1113,2025-11-03,1.35,Science,Group Study,40.6,60,Monday
+7,1113,2025-11-04,3.19,Science,Pomodoro,56.8,78,Tuesday
+8,1113,2025-11-05,4.26,History,Practice Test,9.3,64,Wednesday
+9,1113,2025-11-06,2.16,English,Practice Test,28.0,99,Thursday
+10,1113,2025-11-07,3.0,Math,Notes Review,8.5,88,Friday
+11,1165,2025-11-03,4.02,Math,Flashcards,23.5,96,Monday
+12,1165,2025-11-04,2.41,Computer,Practice Test,46.9,73,Tuesday
+13,1165,2025-11-05,3.35,Math,Notes Review,52.2,82,Wednesday
+14,1165,2025-11-06,4.74,Science,Practice Test,30.7,98,Thursday
+15,1165,2025-11-07,3.75,Math,Practice Test,48.8,85,Friday
+16,1214,2025-11-03,1.6,Computer,Practice Test,26.0,55,Monday
+17,1214,2025-11-04,2.83,Computer,Practice Test,54.0,75,Tuesday
+18,1214,2025-11-05,1.42,History,Notes Review,19.1,73,Wednesday
+19,1214,2025-11-06,4.28,Science,Pomodoro,19.8,92,Thursday
+20,1214,2025-11-07,2.54,Science,Pomodoro,22.0,70,Friday
+21,1328,2025-11-03,1.83,Computer,Practice Test,32.2,99,Monday
+22,1328,2025-11-04,4.74,Math,Notes Review,38.3,75,Tuesday
+23,1328,2025-11-05,1.3,History,Flashcards,19.8,77,Wednesday
+24,1328,2025-11-06,2.86,Math,Group Study,9.4,96,Thursday
+25,1328,2025-11-07,3.72,Computer,Pomodoro,46.0,94,Friday
+26,1363,2025-11-03,2.93,Math,Pomodoro,14.5,91,Monday
+27,1363,2025-11-04,4.32,Computer,Flashcards,52.1,79,Tuesday
+28,1363,2025-11-05,3.98,Science,Pomodoro,52.4,52,Wednesday
+29,1363,2025-11-06,2.38,Math,Group Study,53.5,75,Thursday
+30,1363,2025-11-07,2.62,Science,Practice Test,9.2,76,Friday
+31,1383,2025-11-03,3.37,English,Notes Review,55.3,66,Monday
+32,1383,2025-11-04,1.31,English,Notes Review,23.3,67,Tuesday
+33,1383,2025-11-05,4.85,Science,Practice Test,28.3,65,Wednesday
+34,1383,2025-11-06,2.56,Science,Pomodoro,57.4,83,Thursday
+35,1383,2025-11-07,2.16,History,Flashcards,32.7,65,Friday
+36,1396,2025-11-03,2.19,Computer,Pomodoro,17.0,90,Monday
+37,1396,2025-11-04,4.89,Computer,Notes Review,18.1,83,Tuesday
+38,1396,2025-11-05,4.75,Computer,Practice Test,7.4,65,Wednesday
+39,1396,2025-11-06,3.86,History,Practice Test,40.0,75,Thursday
+40,1396,2025-11-07,1.9,Computer,Practice Test,21.7,87,Friday
+41,1594,2025-11-03,1.17,History,Group Study,37.0,77,Monday
+42,1594,2025-11-04,4.77,Science,Group Study,6.5,53,Tuesday
+43,1594,2025-11-05,4.48,Science,Flashcards,51.4,57,Wednesday
+44,1594,2025-11-06,2.82,History,Pomodoro,6.6,57,Thursday
+45,1594,2025-11-07,4.28,Math,Notes Review,42.0,91,Friday
+46,1613,2025-11-03,1.33,Math,Pomodoro,20.9,95,Monday
+47,1613,2025-11-04,3.34,Science,Flashcards,18.5,78,Tuesday
+48,1613,2025-11-05,3.9,History,Practice Test,48.4,56,Wednesday
+49,1613,2025-11-06,4.55,English,Group Study,36.1,53,Thursday
+50,1613,2025-11-07,4.99,Science,Pomodoro,22.0,71,Friday
+51,1663,2025-11-03,4.01,Computer,Flashcards,30.2,81,Monday
+52,1663,2025-11-04,4.1,English,Flashcards,56.0,71,Tuesday
+53,1663,2025-11-05,4.61,Math,Flashcards,35.9,96,Wednesday
+54,1663,2025-11-06,3.56,Computer,Notes Review,59.5,63,Thursday
+55,1663,2025-11-07,3.48,English,Group Study,5.4,84,Friday
+56,1666,2025-11-03,4.82,English,Pomodoro,28.1,74,Monday
+57,1666,2025-11-04,4.93,Math,Group Study,39.6,97,Tuesday
+58,1666,2025-11-05,3.64,Science,Flashcards,38.8,52,Wednesday
+59,1666,2025-11-06,4.26,English,Flashcards,5.8,78,Thursday
+60,1666,2025-11-07,3.73,History,Flashcards,39.0,63,Friday
+61,1708,2025-11-03,3.31,Math,Pomodoro,23.0,53,Monday
+62,1708,2025-11-04,1.86,English,Pomodoro,55.0,97,Tuesday
+63,1708,2025-11-05,2.62,Math,Notes Review,14.1,65,Wednesday
+64,1708,2025-11-06,1.6,English,Practice Test,5.0,92,Thursday
+65,1708,2025-11-07,1.1,Science,Notes Review,51.2,61,Friday
+66,1742,2025-11-03,1.8,Science,Pomodoro,35.3,62,Monday
+67,1742,2025-11-04,4.49,English,Group Study,40.4,76,Tuesday
+68,1742,2025-11-05,4.62,Math,Notes Review,25.1,88,Wednesday
+69,1742,2025-11-06,4.47,Computer,Group Study,9.0,96,Thursday
+70,1742,2025-11-07,1.63,Math,Flashcards,50.9,86,Friday
+71,1790,2025-11-03,2.3,History,Group Study,59.8,89,Monday
+72,1790,2025-11-04,2.98,English,Flashcards,48.7,99,Tuesday
+73,1790,2025-11-05,2.26,Computer,Pomodoro,50.7,65,Wednesday
+74,1790,2025-11-06,1.82,English,Group Study,7.1,81,Thursday
+75,1790,2025-11-07,1.13,English,Practice Test,49.9,93,Friday
+76,1853,2025-11-03,4.93,Science,Practice Test,6.4,58,Monday
+77,1853,2025-11-04,2.56,English,Group Study,36.3,64,Tuesday
+78,1853,2025-11-05,2.21,Science,Practice Test,16.9,51,Wednesday
+79,1853,2025-11-06,4.87,Computer,Group Study,23.8,60,Thursday
+80,1853,2025-11-07,3.38,Computer,Flashcards,31.0,62,Friday
+81,1857,2025-11-03,1.26,Science,Practice Test,24.9,81,Monday
+82,1857,2025-11-04,2.96,English,Group Study,19.1,91,Tuesday
+83,1857,2025-11-05,2.85,Math,Pomodoro,22.2,75,Wednesday
+84,1857,2025-11-06,1.26,Computer,Flashcards,52.9,50,Thursday
+85,1857,2025-11-07,2.85,Science,Practice Test,59.0,69,Friday
+86,1866,2025-11-03,4.61,Science,Group Study,27.6,80,Monday
+87,1866,2025-11-04,2.29,English,Pomodoro,24.9,81,Tuesday
+88,1866,2025-11-05,2.79,English,Group Study,22.8,69,Wednesday
+89,1866,2025-11-06,4.47,History,Practice Test,56.0,83,Thursday
+90,1866,2025-11-07,1.31,English,Practice Test,57.0,73,Friday
+91,1959,2025-11-03,4.4,History,Notes Review,15.4,84,Monday
+92,1959,2025-11-04,3.03,Computer,Flashcards,32.9,76,Tuesday
+93,1959,2025-11-05,4.63,English,Notes Review,29.9,61,Wednesday
+94,1959,2025-11-06,2.84,History,Notes Review,32.9,65,Thursday
+95,1959,2025-11-07,3.76,Math,Flashcards,49.8,70,Friday
+96,2142,2025-11-03,3.5,English,Notes Review,22.2,93,Monday
+97,2142,2025-11-04,2.17,History,Pomodoro,28.1,85,Tuesday
+98,2142,2025-11-05,4.77,History,Flashcards,32.7,92,Wednesday
+99,2142,2025-11-06,1.98,Math,Practice Test,27.1,71,Thursday
+100,2142,2025-11-07,1.36,Math,Notes Review,49.9,69,Friday
+101,2318,2025-11-03,2.66,Science,Flashcards,59.4,97,Monday
+102,2318,2025-11-04,1.81,Science,Group Study,46.2,81,Tuesday
+103,2318,2025-11-05,1.91,Math,Flashcards,28.6,72,Wednesday
+104,2318,2025-11-06,3.85,Computer,Group Study,22.6,50,Thursday
+105,2318,2025-11-07,3.1,Science,Pomodoro,6.8,52,Friday
+106,2322,2025-11-03,4.92,Science,Notes Review,10.6,73,Monday
+107,2322,2025-11-04,3.59,Computer,Notes Review,26.8,65,Tuesday
+108,2322,2025-11-05,4.75,Computer,Pomodoro,50.2,75,Wednesday
+109,2322,2025-11-06,3.97,Computer,Notes Review,26.8,85,Thursday
+110,2322,2025-11-07,1.41,Math,Flashcards,38.0,79,Friday
+111,2499,2025-11-03,1.81,Computer,Notes Review,18.9,61,Monday
+112,2499,2025-11-04,1.69,History,Group Study,43.7,93,Tuesday
+113,2499,2025-11-05,4.68,English,Group Study,33.1,66,Wednesday
+114,2499,2025-11-06,1.73,Math,Practice Test,8.7,86,Thursday
+115,2499,2025-11-07,1.41,Computer,Practice Test,27.9,50,Friday
+116,2538,2025-11-03,2.0,Computer,Group Study,36.9,90,Monday
+117,2538,2025-11-04,2.18,Computer,Practice Test,47.3,57,Tuesday
+118,2538,2025-11-05,3.97,Computer,Practice Test,53.6,96,Wednesday
+119,2538,2025-11-06,1.5,Math,Pomodoro,55.9,63,Thursday
+120,2538,2025-11-07,3.02,Science,Group Study,35.3,62,Friday
+121,2575,2025-11-03,1.27,Science,Pomodoro,7.9,51,Monday
+122,2575,2025-11-04,1.35,Math,Flashcards,9.2,76,Tuesday
+123,2575,2025-11-05,2.69,Math,Practice Test,5.9,79,Wednesday
+124,2575,2025-11-06,1.43,Science,Flashcards,50.4,66,Thursday
+125,2575,2025-11-07,2.5,Computer,Group Study,28.7,52,Friday
+126,2602,2025-11-03,2.65,Computer,Notes Review,32.2,96,Monday
+127,2602,2025-11-04,2.43,English,Practice Test,27.3,83,Tuesday
+128,2602,2025-11-05,2.58,Science,Practice Test,46.9,92,Wednesday
+129,2602,2025-11-06,2.14,Math,Practice Test,30.2,89,Thursday
+130,2602,2025-11-07,4.32,History,Notes Review,30.7,86,Friday
+131,2698,2025-11-03,1.53,Computer,Group Study,48.4,63,Monday
+132,2698,2025-11-04,2.13,English,Notes Review,59.3,72,Tuesday
+133,2698,2025-11-05,3.38,Computer,Flashcards,55.3,81,Wednesday
+134,2698,2025-11-06,2.87,History,Pomodoro,48.1,90,Thursday
+135,2698,2025-11-07,1.75,English,Notes Review,17.8,99,Friday
+136,2706,2025-11-03,4.12,History,Practice Test,48.8,84,Monday
+137,2706,2025-11-04,1.56,Computer,Flashcards,10.9,73,Tuesday
+138,2706,2025-11-05,4.28,English,Practice Test,49.1,71,Wednesday
+139,2706,2025-11-06,3.26,History,Flashcards,21.4,50,Thursday
+140,2706,2025-11-07,4.23,History,Notes Review,57.9,62,Friday
+141,2800,2025-11-03,2.57,History,Practice Test,51.0,93,Monday
+142,2800,2025-11-04,1.45,History,Group Study,25.5,60,Tuesday
+143,2800,2025-11-05,3.08,Computer,Practice Test,11.7,78,Wednesday
+144,2800,2025-11-06,4.9,Math,Practice Test,7.0,94,Thursday
+145,2800,2025-11-07,1.02,Science,Flashcards,49.8,57,Friday
+146,2921,2025-11-03,2.6,Science,Group Study,24.9,67,Monday
+147,2921,2025-11-04,4.45,Computer,Group Study,55.1,58,Tuesday
+148,2921,2025-11-05,2.77,Computer,Flashcards,35.0,98,Wednesday
+149,2921,2025-11-06,1.47,Computer,Group Study,7.0,81,Thursday
+150,2921,2025-11-07,2.21,Computer,Group Study,14.2,72,Friday
+151,2962,2025-11-03,4.13,Science,Group Study,46.1,93,Monday
+152,2962,2025-11-04,4.24,Science,Pomodoro,28.8,69,Tuesday
+153,2962,2025-11-05,4.06,English,Flashcards,12.3,88,Wednesday
+154,2962,2025-11-06,3.27,Computer,Group Study,44.1,63,Thursday
+155,2962,2025-11-07,2.08,History,Notes Review,45.5,63,Friday
+156,2963,2025-11-03,4.95,Math,Notes Review,29.0,54,Monday
+157,2963,2025-11-04,1.82,Math,Group Study,34.5,87,Tuesday
+158,2963,2025-11-05,3.77,History,Notes Review,49.4,54,Wednesday
+159,2963,2025-11-06,3.98,English,Pomodoro,52.9,64,Thursday
+160,2963,2025-11-07,1.56,Computer,Practice Test,41.3,93,Friday
+161,2982,2025-11-03,4.74,English,Practice Test,23.9,63,Monday
+162,2982,2025-11-04,1.55,Computer,Flashcards,9.2,74,Tuesday
+163,2982,2025-11-05,3.14,Computer,Practice Test,44.4,63,Wednesday
+164,2982,2025-11-06,2.57,English,Pomodoro,50.5,98,Thursday
+165,2982,2025-11-07,1.35,English,Group Study,31.2,99,Friday
+166,2991,2025-11-03,2.85,Computer,Group Study,16.0,69,Monday
+167,2991,2025-11-04,4.56,Math,Notes Review,46.8,76,Tuesday
+168,2991,2025-11-05,1.57,History,Flashcards,11.6,63,Wednesday
+169,2991,2025-11-06,3.21,History,Practice Test,36.0,60,Thursday
+170,2991,2025-11-07,4.98,English,Practice Test,6.3,90,Friday
+171,3033,2025-11-03,2.95,Computer,Group Study,15.1,53,Monday
+172,3033,2025-11-04,1.24,English,Practice Test,41.8,87,Tuesday
+173,3033,2025-11-05,2.97,Computer,Practice Test,21.7,54,Wednesday
+174,3033,2025-11-06,3.36,Science,Practice Test,12.3,87,Thursday
+175,3033,2025-11-07,4.04,Science,Notes Review,6.3,68,Friday
+176,3052,2025-11-03,1.15,Science,Pomodoro,37.6,80,Monday
+177,3052,2025-11-04,1.29,Computer,Group Study,49.7,72,Tuesday
+178,3052,2025-11-05,3.73,Computer,Notes Review,39.5,57,Wednesday
+179,3052,2025-11-06,4.1,English,Pomodoro,14.2,52,Thursday
+180,3052,2025-11-07,1.96,Science,Practice Test,48.2,99,Friday
+181,3068,2025-11-03,2.71,Science,Pomodoro,8.9,83,Monday
+182,3068,2025-11-04,4.6,History,Flashcards,9.3,63,Tuesday
+183,3068,2025-11-05,1.61,English,Notes Review,24.0,50,Wednesday
+184,3068,2025-11-06,3.45,Computer,Pomodoro,39.0,80,Thursday
+185,3068,2025-11-07,3.09,English,Flashcards,8.8,59,Friday
+186,3176,2025-11-03,4.48,History,Pomodoro,24.8,98,Monday
+187,3176,2025-11-04,4.31,Computer,Pomodoro,42.9,98,Tuesday
+188,3176,2025-11-05,3.87,Science,Pomodoro,9.3,92,Wednesday
+189,3176,2025-11-06,4.41,English,Flashcards,36.1,83,Thursday
+190,3176,2025-11-07,3.4,Computer,Flashcards,33.6,60,Friday
+191,3205,2025-11-03,1.96,Science,Notes Review,46.1,66,Monday
+192,3205,2025-11-04,3.22,Math,Practice Test,49.5,80,Tuesday
+193,3205,2025-11-05,1.45,Computer,Notes Review,35.6,75,Wednesday
+194,3205,2025-11-06,2.68,Computer,Notes Review,33.9,94,Thursday
+195,3205,2025-11-07,3.7,History,Notes Review,15.5,59,Friday
+196,3254,2025-11-03,3.82,Math,Practice Test,35.8,69,Monday
+197,3254,2025-11-04,3.12,Science,Group Study,43.9,92,Tuesday
+198,3254,2025-11-05,4.89,English,Pomodoro,28.0,52,Wednesday
+199,3254,2025-11-06,4.54,Math,Group Study,55.4,64,Thursday
+200,3254,2025-11-07,1.72,Science,Group Study,57.5,88,Friday
+201,3255,2025-11-03,3.91,History,Pomodoro,59.6,72,Monday
+202,3255,2025-11-04,2.46,Computer,Practice Test,21.5,57,Tuesday
+203,3255,2025-11-05,4.52,English,Pomodoro,26.7,68,Wednesday
+204,3255,2025-11-06,2.28,Math,Notes Review,28.1,57,Thursday
+205,3255,2025-11-07,3.58,Science,Pomodoro,32.5,62,Friday
+206,3257,2025-11-03,4.38,English,Group Study,10.2,81,Monday
+207,3257,2025-11-04,4.16,Computer,Notes Review,44.1,80,Tuesday
+208,3257,2025-11-05,2.98,Science,Pomodoro,6.2,88,Wednesday
+209,3257,2025-11-06,1.87,Math,Group Study,55.6,71,Thursday
+210,3257,2025-11-07,3.18,Computer,Group Study,46.7,74,Friday
+211,3274,2025-11-03,3.59,History,Pomodoro,40.7,60,Monday
+212,3274,2025-11-04,1.46,English,Group Study,29.2,95,Tuesday
+213,3274,2025-11-05,3.42,Computer,Pomodoro,5.7,60,Wednesday
+214,3274,2025-11-06,1.67,History,Notes Review,28.8,92,Thursday
+215,3274,2025-11-07,2.34,English,Pomodoro,25.4,57,Friday
+216,3336,2025-11-03,1.42,Science,Notes Review,11.0,74,Monday
+217,3336,2025-11-04,1.49,English,Practice Test,14.4,67,Tuesday
+218,3336,2025-11-05,1.24,History,Pomodoro,48.3,77,Wednesday
+219,3336,2025-11-06,4.02,Science,Pomodoro,11.3,90,Thursday
+220,3336,2025-11-07,1.55,Math,Group Study,47.7,80,Friday
+221,3406,2025-11-03,2.74,Math,Flashcards,23.7,51,Monday
+222,3406,2025-11-04,1.78,Computer,Flashcards,43.5,86,Tuesday
+223,3406,2025-11-05,1.42,History,Notes Review,32.5,58,Wednesday
+224,3406,2025-11-06,4.62,History,Group Study,22.1,86,Thursday
+225,3406,2025-11-07,2.46,History,Group Study,45.0,86,Friday
+226,3481,2025-11-03,4.64,History,Pomodoro,48.4,75,Monday
+227,3481,2025-11-04,3.84,Science,Pomodoro,5.2,72,Tuesday
+228,3481,2025-11-05,2.26,Science,Practice Test,17.3,85,Wednesday
+229,3481,2025-11-06,4.29,Computer,Flashcards,11.6,85,Thursday
+230,3481,2025-11-07,1.39,Math,Pomodoro,45.7,75,Friday
+231,3609,2025-11-03,1.64,Science,Notes Review,47.5,68,Monday
+232,3609,2025-11-04,2.74,History,Group Study,57.8,57,Tuesday
+233,3609,2025-11-05,2.69,English,Pomodoro,50.3,81,Wednesday
+234,3609,2025-11-06,3.51,Math,Practice Test,58.7,66,Thursday
+235,3609,2025-11-07,4.6,Science,Flashcards,30.7,72,Friday
+236,3663,2025-11-03,4.73,Math,Notes Review,8.0,61,Monday
+237,3663,2025-11-04,1.49,Math,Group Study,16.5,90,Tuesday
+238,3663,2025-11-05,1.7,History,Group Study,29.2,91,Wednesday
+239,3663,2025-11-06,3.44,Computer,Group Study,25.1,69,Thursday
+240,3663,2025-11-07,2.9,Computer,Pomodoro,6.4,90,Friday
+241,3669,2025-11-03,2.49,English,Group Study,42.1,91,Monday
+242,3669,2025-11-04,1.88,Science,Flashcards,31.8,85,Tuesday
+243,3669,2025-11-05,1.66,Science,Group Study,12.4,69,Wednesday
+244,3669,2025-11-06,4.82,English,Pomodoro,24.9,86,Thursday
+245,3669,2025-11-07,3.48,Math,Pomodoro,40.4,58,Friday
+246,3690,2025-11-03,3.55,Math,Flashcards,43.7,74,Monday
+247,3690,2025-11-04,4.75,Science,Pomodoro,28.6,87,Tuesday
+248,3690,2025-11-05,3.39,English,Notes Review,51.8,66,Wednesday
+249,3690,2025-11-06,2.66,Math,Pomodoro,5.5,55,Thursday
+250,3690,2025-11-07,3.31,Science,Notes Review,31.3,81,Friday
+251,3694,2025-11-03,4.01,Science,Pomodoro,7.4,96,Monday
+252,3694,2025-11-04,2.04,English,Practice Test,16.5,92,Tuesday
+253,3694,2025-11-05,3.29,English,Flashcards,53.1,89,Wednesday
+254,3694,2025-11-06,2.18,Computer,Group Study,36.7,93,Thursday
+255,3694,2025-11-07,3.91,Math,Practice Test,32.5,65,Friday
+256,3719,2025-11-03,2.88,Math,Flashcards,14.2,77,Monday
+257,3719,2025-11-04,1.91,English,Group Study,31.1,54,Tuesday
+258,3719,2025-11-05,4.78,Science,Pomodoro,49.9,83,Wednesday
+259,3719,2025-11-06,4.24,Math,Flashcards,49.9,61,Thursday
+260,3719,2025-11-07,1.48,Science,Group Study,52.5,54,Friday
+261,3797,2025-11-03,2.85,English,Pomodoro,23.7,94,Monday
+262,3797,2025-11-04,4.09,History,Flashcards,55.0,89,Tuesday
+263,3797,2025-11-05,2.77,History,Group Study,44.5,73,Wednesday
+264,3797,2025-11-06,3.37,English,Notes Review,10.5,55,Thursday
+265,3797,2025-11-07,4.63,Science,Pomodoro,30.6,62,Friday
+266,3873,2025-11-03,2.67,History,Flashcards,23.4,73,Monday
+267,3873,2025-11-04,4.85,History,Flashcards,30.2,60,Tuesday
+268,3873,2025-11-05,1.86,History,Practice Test,52.6,74,Wednesday
+269,3873,2025-11-06,1.87,History,Flashcards,25.3,71,Thursday
+270,3873,2025-11-07,4.31,Math,Group Study,45.5,90,Friday
+271,3994,2025-11-03,4.84,Computer,Pomodoro,57.0,78,Monday
+272,3994,2025-11-04,2.28,History,Group Study,45.6,76,Tuesday
+273,3994,2025-11-05,3.95,Computer,Practice Test,35.5,95,Wednesday
+274,3994,2025-11-06,2.98,English,Group Study,33.9,93,Thursday
+275,3994,2025-11-07,1.12,History,Flashcards,56.2,62,Friday
+276,4009,2025-11-03,3.84,English,Flashcards,56.1,75,Monday
+277,4009,2025-11-04,4.41,Science,Group Study,50.0,91,Tuesday
+278,4009,2025-11-05,3.91,Science,Practice Test,25.4,92,Wednesday
+279,4009,2025-11-06,4.38,English,Practice Test,54.5,51,Thursday
+280,4009,2025-11-07,3.27,Computer,Practice Test,38.4,95,Friday
+281,4036,2025-11-03,3.05,Computer,Notes Review,33.2,63,Monday
+282,4036,2025-11-04,3.96,English,Practice Test,50.3,52,Tuesday
+283,4036,2025-11-05,4.91,Math,Group Study,37.1,51,Wednesday
+284,4036,2025-11-06,2.46,Computer,Group Study,30.3,60,Thursday
+285,4036,2025-11-07,1.6,History,Notes Review,54.8,71,Friday
+286,4138,2025-11-03,2.64,Math,Pomodoro,41.1,91,Monday
+287,4138,2025-11-04,4.55,Computer,Group Study,7.2,91,Tuesday
+288,4138,2025-11-05,2.41,English,Group Study,11.1,93,Wednesday
+289,4138,2025-11-06,3.76,Science,Flashcards,41.5,52,Thursday
+290,4138,2025-11-07,2.91,English,Practice Test,18.0,87,Friday
+291,4140,2025-11-03,4.94,Science,Pomodoro,18.9,62,Monday
+292,4140,2025-11-04,4.26,Science,Pomodoro,36.9,65,Tuesday
+293,4140,2025-11-05,3.45,Science,Flashcards,31.9,54,Wednesday
+294,4140,2025-11-06,1.87,Computer,Group Study,46.2,97,Thursday
+295,4140,2025-11-07,4.52,Computer,Flashcards,44.6,75,Friday
+296,4188,2025-11-03,3.18,Computer,Group Study,46.0,64,Monday
+297,4188,2025-11-04,2.58,History,Notes Review,59.5,85,Tuesday
+298,4188,2025-11-05,2.67,Computer,Group Study,20.8,80,Wednesday
+299,4188,2025-11-06,4.02,Science,Group Study,15.2,73,Thursday
+300,4188,2025-11-07,4.62,English,Practice Test,14.5,73,Friday
+301,4197,2025-11-03,4.87,History,Group Study,8.9,75,Monday
+302,4197,2025-11-04,1.37,History,Pomodoro,14.0,76,Tuesday
+303,4197,2025-11-05,3.2,Math,Practice Test,8.4,72,Wednesday
+304,4197,2025-11-06,2.02,English,Practice Test,35.0,61,Thursday
+305,4197,2025-11-07,1.4,Math,Pomodoro,31.6,72,Friday
+306,4235,2025-11-03,1.62,English,Group Study,24.5,70,Monday
+307,4235,2025-11-04,1.87,Math,Group Study,47.1,51,Tuesday
+308,4235,2025-11-05,1.81,Math,Practice Test,43.4,96,Wednesday
+309,4235,2025-11-06,3.09,Science,Pomodoro,5.2,54,Thursday
+310,4235,2025-11-07,4.48,Science,Group Study,58.1,75,Friday
+311,4265,2025-11-03,2.13,History,Group Study,54.4,92,Monday
+312,4265,2025-11-04,1.32,Computer,Group Study,35.1,80,Tuesday
+313,4265,2025-11-05,4.07,English,Group Study,42.0,87,Wednesday
+314,4265,2025-11-06,4.93,Computer,Practice Test,53.6,64,Thursday
+315,4265,2025-11-07,3.69,English,Flashcards,16.9,76,Friday
+316,4311,2025-11-03,3.03,English,Flashcards,23.9,86,Monday
+317,4311,2025-11-04,3.18,History,Pomodoro,21.3,91,Tuesday
+318,4311,2025-11-05,2.26,Math,Notes Review,35.5,56,Wednesday
+319,4311,2025-11-06,3.21,English,Group Study,39.8,83,Thursday
+320,4311,2025-11-07,3.67,English,Flashcards,35.9,82,Friday
+321,4406,2025-11-03,3.87,English,Practice Test,41.6,96,Monday
+322,4406,2025-11-04,1.86,English,Pomodoro,58.8,53,Tuesday
+323,4406,2025-11-05,2.84,Math,Flashcards,8.8,88,Wednesday
+324,4406,2025-11-06,2.28,History,Flashcards,41.7,81,Thursday
+325,4406,2025-11-07,1.65,English,Pomodoro,25.6,94,Friday
+326,4418,2025-11-03,2.57,Computer,Notes Review,19.5,54,Monday
+327,4418,2025-11-04,4.64,English,Group Study,40.7,72,Tuesday
+328,4418,2025-11-05,3.76,Science,Practice Test,53.1,93,Wednesday
+329,4418,2025-11-06,3.25,History,Practice Test,9.3,86,Thursday
+330,4418,2025-11-07,2.77,Math,Practice Test,40.2,79,Friday
+331,4462,2025-11-03,2.47,Science,Pomodoro,53.3,83,Monday
+332,4462,2025-11-04,4.4,Math,Practice Test,14.5,81,Tuesday
+333,4462,2025-11-05,2.2,Math,Flashcards,50.4,82,Wednesday
+334,4462,2025-11-06,3.0,English,Practice Test,55.3,87,Thursday
+335,4462,2025-11-07,2.84,Computer,Flashcards,49.0,92,Friday
+336,4463,2025-11-03,1.48,History,Group Study,44.4,60,Monday
+337,4463,2025-11-04,1.17,English,Practice Test,27.1,65,Tuesday
+338,4463,2025-11-05,2.73,English,Group Study,51.7,61,Wednesday
+339,4463,2025-11-06,3.54,History,Practice Test,44.5,95,Thursday
+340,4463,2025-11-07,4.52,Computer,Practice Test,36.1,73,Friday
+341,4509,2025-11-03,4.98,History,Flashcards,9.8,53,Monday
+342,4509,2025-11-04,3.89,Science,Flashcards,54.0,86,Tuesday
+343,4509,2025-11-05,3.46,English,Pomodoro,32.3,94,Wednesday
+344,4509,2025-11-06,4.01,Science,Practice Test,31.6,50,Thursday
+345,4509,2025-11-07,4.05,History,Practice Test,56.4,83,Friday
+346,4514,2025-11-03,2.95,Science,Pomodoro,59.9,50,Monday
+347,4514,2025-11-04,1.07,Math,Group Study,47.0,91,Tuesday
+348,4514,2025-11-05,1.47,English,Practice Test,49.3,57,Wednesday
+349,4514,2025-11-06,2.84,Math,Pomodoro,14.6,86,Thursday
+350,4514,2025-11-07,1.63,History,Notes Review,35.3,87,Friday
+351,4517,2025-11-03,4.29,English,Notes Review,53.3,86,Monday
+352,4517,2025-11-04,2.25,Science,Flashcards,50.4,61,Tuesday
+353,4517,2025-11-05,2.52,History,Group Study,42.3,89,Wednesday
+354,4517,2025-11-06,4.77,Computer,Notes Review,34.2,64,Thursday
+355,4517,2025-11-07,4.17,Science,Notes Review,18.9,83,Friday
+356,4538,2025-11-03,3.79,Math,Notes Review,35.3,89,Monday
+357,4538,2025-11-04,3.0,Science,Flashcards,20.6,79,Tuesday
+358,4538,2025-11-05,1.82,Computer,Pomodoro,44.5,56,Wednesday
+359,4538,2025-11-06,1.59,Science,Flashcards,25.3,53,Thursday
+360,4538,2025-11-07,1.0,Computer,Practice Test,54.6,79,Friday
+361,4603,2025-11-03,2.3,Science,Group Study,8.8,93,Monday
+362,4603,2025-11-04,1.03,History,Group Study,29.5,74,Tuesday
+363,4603,2025-11-05,4.96,Science,Flashcards,15.1,73,Wednesday
+364,4603,2025-11-06,4.6,History,Notes Review,30.8,64,Thursday
+365,4603,2025-11-07,3.0,Math,Notes Review,59.6,91,Friday
+366,4604,2025-11-03,3.03,Science,Pomodoro,33.8,97,Monday
+367,4604,2025-11-04,4.45,Science,Practice Test,14.0,67,Tuesday
+368,4604,2025-11-05,1.45,History,Flashcards,14.3,72,Wednesday
+369,4604,2025-11-06,2.93,English,Pomodoro,52.4,93,Thursday
+370,4604,2025-11-07,1.66,History,Pomodoro,25.8,70,Friday
+371,4633,2025-11-03,4.97,History,Pomodoro,59.2,73,Monday
+372,4633,2025-11-04,4.9,Math,Notes Review,42.4,87,Tuesday
+373,4633,2025-11-05,2.17,Math,Group Study,46.3,70,Wednesday
+374,4633,2025-11-06,4.27,History,Group Study,52.0,53,Thursday
+375,4633,2025-11-07,3.75,English,Pomodoro,38.3,55,Friday
+376,4675,2025-11-03,3.61,Science,Pomodoro,27.2,86,Monday
+377,4675,2025-11-04,3.28,Science,Flashcards,49.1,69,Tuesday
+378,4675,2025-11-05,4.14,Science,Pomodoro,29.6,56,Wednesday
+379,4675,2025-11-06,4.88,English,Flashcards,46.0,82,Thursday
+380,4675,2025-11-07,2.71,Computer,Pomodoro,6.3,62,Friday
+381,4776,2025-11-03,3.56,Math,Notes Review,42.9,68,Monday
+382,4776,2025-11-04,1.47,English,Group Study,53.5,79,Tuesday
+383,4776,2025-11-05,4.33,Science,Group Study,23.9,73,Wednesday
+384,4776,2025-11-06,1.48,Computer,Group Study,29.7,63,Thursday
+385,4776,2025-11-07,4.08,English,Notes Review,6.0,96,Friday
+386,4846,2025-11-03,4.39,Computer,Practice Test,26.2,64,Monday
+387,4846,2025-11-04,4.43,History,Pomodoro,6.8,64,Tuesday
+388,4846,2025-11-05,2.2,History,Practice Test,7.2,53,Wednesday
+389,4846,2025-11-06,2.97,History,Pomodoro,11.7,88,Thursday
+390,4846,2025-11-07,1.65,Computer,Flashcards,41.4,58,Friday
+391,4854,2025-11-03,2.02,Science,Practice Test,11.6,92,Monday
+392,4854,2025-11-04,1.68,Computer,Group Study,9.9,60,Tuesday
+393,4854,2025-11-05,2.74,Computer,Flashcards,39.3,94,Wednesday
+394,4854,2025-11-06,3.58,Math,Notes Review,49.2,74,Thursday
+395,4854,2025-11-07,2.91,Math,Flashcards,5.2,88,Friday
+396,4908,2025-11-03,1.24,Science,Group Study,26.9,63,Monday
+397,4908,2025-11-04,1.46,Science,Group Study,43.5,50,Tuesday
+398,4908,2025-11-05,1.03,English,Notes Review,49.0,89,Wednesday
+399,4908,2025-11-06,3.59,Science,Flashcards,49.9,80,Thursday
+400,4908,2025-11-07,1.2,History,Flashcards,24.2,59,Friday
+401,4925,2025-11-03,2.22,History,Flashcards,17.7,54,Monday
+402,4925,2025-11-04,2.46,Math,Group Study,13.7,57,Tuesday
+403,4925,2025-11-05,2.72,Computer,Practice Test,12.2,88,Wednesday
+404,4925,2025-11-06,4.46,English,Practice Test,57.5,69,Thursday
+405,4925,2025-11-07,2.62,Computer,Group Study,51.1,56,Friday
+406,4948,2025-11-03,2.59,Science,Pomodoro,50.5,79,Monday
+407,4948,2025-11-04,1.55,History,Pomodoro,54.4,93,Tuesday
+408,4948,2025-11-05,2.45,History,Practice Test,46.5,77,Wednesday
+409,4948,2025-11-06,4.94,History,Practice Test,25.7,71,Thursday
+410,4948,2025-11-07,2.54,Computer,Practice Test,39.1,90,Friday
+411,5001,2025-11-03,2.79,English,Flashcards,43.1,67,Monday
+412,5001,2025-11-04,2.85,Math,Practice Test,51.8,78,Tuesday
+413,5001,2025-11-05,3.6,History,Flashcards,13.7,80,Wednesday
+414,5001,2025-11-06,2.33,Math,Practice Test,35.6,52,Thursday
+415,5001,2025-11-07,2.68,Computer,Pomodoro,19.4,95,Friday
+416,5031,2025-11-03,4.11,Math,Notes Review,8.6,87,Monday
+417,5031,2025-11-04,2.3,English,Pomodoro,39.7,75,Tuesday
+418,5031,2025-11-05,2.31,Math,Pomodoro,8.7,55,Wednesday
+419,5031,2025-11-06,4.96,Science,Group Study,23.2,64,Thursday
+420,5031,2025-11-07,4.09,Computer,Pomodoro,35.2,72,Friday
+421,5048,2025-11-03,3.81,History,Practice Test,47.5,75,Monday
+422,5048,2025-11-04,4.59,Science,Practice Test,9.1,53,Tuesday
+423,5048,2025-11-05,1.2,History,Practice Test,38.2,58,Wednesday
+424,5048,2025-11-06,3.19,Science,Notes Review,34.7,82,Thursday
+425,5048,2025-11-07,3.26,Math,Flashcards,53.7,90,Friday
+426,5094,2025-11-03,4.32,English,Pomodoro,56.3,67,Monday
+427,5094,2025-11-04,1.2,Computer,Practice Test,54.3,57,Tuesday
+428,5094,2025-11-05,1.82,Math,Notes Review,29.2,64,Wednesday
+429,5094,2025-11-06,3.42,Math,Group Study,44.0,85,Thursday
+430,5094,2025-11-07,3.18,Math,Pomodoro,55.5,86,Friday
+431,5119,2025-11-03,1.98,Science,Pomodoro,48.4,68,Monday
+432,5119,2025-11-04,3.56,Computer,Flashcards,32.0,51,Tuesday
+433,5119,2025-11-05,4.57,English,Practice Test,8.6,83,Wednesday
+434,5119,2025-11-06,4.51,History,Notes Review,12.3,64,Thursday
+435,5119,2025-11-07,2.61,Computer,Notes Review,6.4,70,Friday
+436,5144,2025-11-03,1.03,Math,Group Study,13.2,63,Monday
+437,5144,2025-11-04,1.78,Computer,Practice Test,59.2,85,Tuesday
+438,5144,2025-11-05,3.12,Computer,Group Study,16.1,92,Wednesday
+439,5144,2025-11-06,4.02,Computer,Notes Review,19.4,87,Thursday
+440,5144,2025-11-07,3.64,History,Group Study,30.7,65,Friday
+441,5149,2025-11-03,1.22,Science,Notes Review,8.7,82,Monday
+442,5149,2025-11-04,3.8,Science,Notes Review,22.6,77,Tuesday
+443,5149,2025-11-05,1.81,English,Practice Test,28.6,96,Wednesday
+444,5149,2025-11-06,1.2,Computer,Practice Test,45.4,95,Thursday
+445,5149,2025-11-07,3.8,Computer,Notes Review,46.4,95,Friday
+446,5155,2025-11-03,3.85,Math,Notes Review,27.5,99,Monday
+447,5155,2025-11-04,3.48,Science,Group Study,29.8,96,Tuesday
+448,5155,2025-11-05,1.25,Computer,Notes Review,59.2,97,Wednesday
+449,5155,2025-11-06,2.45,Computer,Notes Review,19.0,71,Thursday
+450,5155,2025-11-07,1.62,History,Practice Test,53.6,63,Friday
+451,5212,2025-11-03,1.03,Science,Practice Test,43.3,54,Monday
+452,5212,2025-11-04,2.37,English,Group Study,26.0,86,Tuesday
+453,5212,2025-11-05,3.84,Science,Notes Review,29.0,95,Wednesday
+454,5212,2025-11-06,4.86,Math,Pomodoro,55.7,90,Thursday
+455,5212,2025-11-07,3.49,Science,Flashcards,52.2,62,Friday
+456,5305,2025-11-03,2.18,Computer,Pomodoro,33.1,66,Monday
+457,5305,2025-11-04,1.08,Math,Notes Review,42.3,65,Tuesday
+458,5305,2025-11-05,1.0,Math,Notes Review,41.0,92,Wednesday
+459,5305,2025-11-06,4.2,Science,Practice Test,23.0,96,Thursday
+460,5305,2025-11-07,3.61,Math,Notes Review,58.6,84,Friday
+461,5406,2025-11-03,4.51,Computer,Pomodoro,31.5,55,Monday
+462,5406,2025-11-04,1.57,History,Notes Review,33.9,57,Tuesday
+463,5406,2025-11-05,1.2,Math,Notes Review,55.3,60,Wednesday
+464,5406,2025-11-06,4.98,Math,Flashcards,58.4,61,Thursday
+465,5406,2025-11-07,2.97,Science,Flashcards,56.6,99,Friday
+466,5441,2025-11-03,4.86,Science,Notes Review,35.9,68,Monday
+467,5441,2025-11-04,3.02,Computer,Group Study,11.8,77,Tuesday
+468,5441,2025-11-05,2.11,English,Pomodoro,30.7,75,Wednesday
+469,5441,2025-11-06,2.75,Computer,Group Study,6.7,97,Thursday
+470,5441,2025-11-07,1.84,Science,Group Study,10.3,53,Friday
+471,5446,2025-11-03,2.62,English,Flashcards,49.9,53,Monday
+472,5446,2025-11-04,2.77,History,Notes Review,44.8,53,Tuesday
+473,5446,2025-11-05,4.21,Computer,Group Study,12.6,94,Wednesday
+474,5446,2025-11-06,2.39,History,Notes Review,49.3,69,Thursday
+475,5446,2025-11-07,2.04,Science,Pomodoro,38.2,56,Friday
+476,5468,2025-11-03,1.9,Science,Pomodoro,5.5,99,Monday
+477,5468,2025-11-04,2.92,English,Pomodoro,27.4,86,Tuesday
+478,5468,2025-11-05,4.57,Science,Pomodoro,30.2,80,Wednesday
+479,5468,2025-11-06,2.66,History,Pomodoro,9.0,90,Thursday
+480,5468,2025-11-07,4.51,Science,Pomodoro,34.2,63,Friday
+481,5550,2025-11-03,1.16,History,Flashcards,42.6,89,Monday
+482,5550,2025-11-04,4.8,Math,Practice Test,40.5,93,Tuesday
+483,5550,2025-11-05,2.6,Math,Pomodoro,42.8,96,Wednesday
+484,5550,2025-11-06,3.34,English,Flashcards,54.5,93,Thursday
+485,5550,2025-11-07,1.07,Computer,Practice Test,10.7,75,Friday
+486,5615,2025-11-03,2.75,Science,Practice Test,46.3,67,Monday
+487,5615,2025-11-04,2.49,Science,Practice Test,47.7,74,Tuesday
+488,5615,2025-11-05,4.78,English,Notes Review,43.3,76,Wednesday
+489,5615,2025-11-06,3.25,Math,Pomodoro,33.0,81,Thursday
+490,5615,2025-11-07,4.16,Math,Flashcards,59.3,87,Friday
+491,5618,2025-11-03,2.47,English,Practice Test,52.2,86,Monday
+492,5618,2025-11-04,3.02,Computer,Group Study,6.4,94,Tuesday
+493,5618,2025-11-05,2.2,History,Group Study,19.1,57,Wednesday
+494,5618,2025-11-06,4.74,Math,Pomodoro,14.4,55,Thursday
+495,5618,2025-11-07,1.62,Science,Group Study,21.9,53,Friday
+496,5630,2025-11-03,3.38,Computer,Pomodoro,16.2,66,Monday
+497,5630,2025-11-04,1.35,Science,Notes Review,23.6,55,Tuesday
+498,5630,2025-11-05,3.46,History,Notes Review,31.9,83,Wednesday
+499,5630,2025-11-06,2.33,Computer,Pomodoro,14.8,56,Thursday
+500,5630,2025-11-07,1.59,History,Practice Test,29.1,74,Friday
+501,5652,2025-11-03,3.84,History,Pomodoro,45.6,95,Monday
+502,5652,2025-11-04,1.95,Science,Group Study,6.8,78,Tuesday
+503,5652,2025-11-05,4.7,Science,Group Study,32.7,62,Wednesday
+504,5652,2025-11-06,4.57,English,Pomodoro,6.0,85,Thursday
+505,5652,2025-11-07,1.12,History,Group Study,47.9,67,Friday
+506,5676,2025-11-03,2.26,History,Notes Review,51.6,51,Monday
+507,5676,2025-11-04,2.71,Computer,Practice Test,21.0,59,Tuesday
+508,5676,2025-11-05,2.94,History,Practice Test,26.7,69,Wednesday
+509,5676,2025-11-06,1.79,Science,Practice Test,9.4,88,Thursday
+510,5676,2025-11-07,2.85,Computer,Pomodoro,49.1,53,Friday
+511,5711,2025-11-03,1.23,English,Flashcards,31.0,94,Monday
+512,5711,2025-11-04,2.95,Math,Notes Review,47.8,64,Tuesday
+513,5711,2025-11-05,2.38,Computer,Notes Review,54.9,88,Wednesday
+514,5711,2025-11-06,2.91,History,Practice Test,59.9,52,Thursday
+515,5711,2025-11-07,2.56,History,Group Study,26.2,89,Friday
+516,5773,2025-11-03,2.31,Computer,Notes Review,6.8,70,Monday
+517,5773,2025-11-04,1.79,English,Notes Review,59.6,66,Tuesday
+518,5773,2025-11-05,1.28,Computer,Practice Test,41.8,89,Wednesday
+519,5773,2025-11-06,1.08,English,Notes Review,40.0,99,Thursday
+520,5773,2025-11-07,2.65,English,Flashcards,27.3,76,Friday
+521,5776,2025-11-03,2.98,History,Notes Review,35.7,52,Monday
+522,5776,2025-11-04,1.71,English,Pomodoro,45.1,88,Tuesday
+523,5776,2025-11-05,4.98,Science,Practice Test,34.4,65,Wednesday
+524,5776,2025-11-06,3.94,History,Flashcards,38.4,87,Thursday
+525,5776,2025-11-07,3.37,English,Pomodoro,36.5,94,Friday
+526,5788,2025-11-03,2.42,Computer,Flashcards,38.4,72,Monday
+527,5788,2025-11-04,2.4,Math,Pomodoro,19.1,76,Tuesday
+528,5788,2025-11-05,4.05,Computer,Notes Review,15.1,96,Wednesday
+529,5788,2025-11-06,1.66,Math,Notes Review,54.2,89,Thursday
+530,5788,2025-11-07,1.2,Science,Practice Test,18.0,66,Friday
+531,5851,2025-11-03,3.83,Math,Notes Review,57.1,50,Monday
+532,5851,2025-11-04,3.61,History,Group Study,10.6,68,Tuesday
+533,5851,2025-11-05,3.91,Math,Notes Review,50.7,59,Wednesday
+534,5851,2025-11-06,1.3,History,Practice Test,44.0,82,Thursday
+535,5851,2025-11-07,1.12,Math,Notes Review,36.0,89,Friday
+536,5902,2025-11-03,1.06,History,Practice Test,54.8,82,Monday
+537,5902,2025-11-04,3.59,History,Notes Review,36.4,63,Tuesday
+538,5902,2025-11-05,3.82,Computer,Group Study,15.9,57,Wednesday
+539,5902,2025-11-06,4.56,English,Group Study,27.8,83,Thursday
+540,5902,2025-11-07,1.87,English,Group Study,26.0,63,Friday
+541,5986,2025-11-03,2.15,Science,Pomodoro,14.0,69,Monday
+542,5986,2025-11-04,3.55,Math,Group Study,42.2,65,Tuesday
+543,5986,2025-11-05,1.73,Math,Notes Review,33.1,65,Wednesday
+544,5986,2025-11-06,1.48,Math,Practice Test,27.0,58,Thursday
+545,5986,2025-11-07,2.6,Science,Pomodoro,32.9,87,Friday
+546,5998,2025-11-03,1.97,Math,Group Study,50.4,68,Monday
+547,5998,2025-11-04,3.86,Math,Practice Test,17.0,83,Tuesday
+548,5998,2025-11-05,4.42,English,Flashcards,6.3,85,Wednesday
+549,5998,2025-11-06,3.33,Computer,Group Study,15.2,50,Thursday
+550,5998,2025-11-07,2.92,English,Pomodoro,19.6,51,Friday
+551,6001,2025-11-03,2.82,Math,Pomodoro,36.6,54,Monday
+552,6001,2025-11-04,2.0,Computer,Practice Test,5.5,58,Tuesday
+553,6001,2025-11-05,1.1,Science,Notes Review,31.3,95,Wednesday
+554,6001,2025-11-06,3.12,Math,Practice Test,41.2,74,Thursday
+555,6001,2025-11-07,2.51,English,Flashcards,51.1,85,Friday
+556,6069,2025-11-03,3.89,History,Group Study,10.1,52,Monday
+557,6069,2025-11-04,1.1,History,Pomodoro,40.7,73,Tuesday
+558,6069,2025-11-05,4.97,English,Flashcards,58.3,74,Wednesday
+559,6069,2025-11-06,2.43,English,Practice Test,25.7,50,Thursday
+560,6069,2025-11-07,2.69,English,Group Study,11.4,88,Friday
+561,6178,2025-11-03,2.07,Science,Pomodoro,15.5,58,Monday
+562,6178,2025-11-04,4.84,Math,Group Study,14.6,90,Tuesday
+563,6178,2025-11-05,1.71,English,Flashcards,27.0,86,Wednesday
+564,6178,2025-11-06,4.3,English,Pomodoro,54.1,85,Thursday
+565,6178,2025-11-07,1.81,Science,Practice Test,21.0,99,Friday
+566,6326,2025-11-03,1.92,Computer,Notes Review,15.0,58,Monday
+567,6326,2025-11-04,3.26,History,Notes Review,37.4,52,Tuesday
+568,6326,2025-11-05,3.84,Math,Group Study,37.3,93,Wednesday
+569,6326,2025-11-06,2.5,English,Flashcards,7.5,61,Thursday
+570,6326,2025-11-07,2.27,English,Pomodoro,23.5,80,Friday
+571,6344,2025-11-03,4.34,English,Group Study,53.8,65,Monday
+572,6344,2025-11-04,1.96,Science,Practice Test,9.7,94,Tuesday
+573,6344,2025-11-05,1.63,Computer,Pomodoro,16.3,85,Wednesday
+574,6344,2025-11-06,2.57,Science,Notes Review,19.4,66,Thursday
+575,6344,2025-11-07,4.45,Math,Flashcards,40.4,65,Friday
+576,6398,2025-11-03,2.37,History,Group Study,42.8,83,Monday
+577,6398,2025-11-04,1.98,Science,Notes Review,34.5,93,Tuesday
+578,6398,2025-11-05,4.09,Computer,Pomodoro,22.1,96,Wednesday
+579,6398,2025-11-06,2.4,Computer,Group Study,18.0,86,Thursday
+580,6398,2025-11-07,2.99,Math,Notes Review,17.3,89,Friday
+581,6423,2025-11-03,2.84,History,Pomodoro,16.3,51,Monday
+582,6423,2025-11-04,4.15,Computer,Pomodoro,43.9,94,Tuesday
+583,6423,2025-11-05,1.73,English,Flashcards,13.8,88,Wednesday
+584,6423,2025-11-06,4.84,Science,Group Study,37.4,59,Thursday
+585,6423,2025-11-07,3.51,History,Group Study,50.3,76,Friday
+586,6489,2025-11-03,3.32,Computer,Practice Test,34.3,83,Monday
+587,6489,2025-11-04,2.15,Computer,Notes Review,57.2,95,Tuesday
+588,6489,2025-11-05,3.31,English,Flashcards,18.0,63,Wednesday
+589,6489,2025-11-06,1.98,Computer,Notes Review,58.5,89,Thursday
+590,6489,2025-11-07,1.2,History,Notes Review,38.8,62,Friday
+591,6502,2025-11-03,2.02,English,Flashcards,40.7,69,Monday
+592,6502,2025-11-04,4.32,English,Flashcards,25.5,94,Tuesday
+593,6502,2025-11-05,3.89,Computer,Flashcards,59.0,98,Wednesday
+594,6502,2025-11-06,1.56,English,Group Study,11.0,68,Thursday
+595,6502,2025-11-07,4.33,English,Pomodoro,21.8,77,Friday
+596,6577,2025-11-03,4.48,History,Flashcards,42.2,79,Monday
+597,6577,2025-11-04,2.32,Science,Flashcards,26.2,62,Tuesday
+598,6577,2025-11-05,1.36,Science,Notes Review,49.7,86,Wednesday
+599,6577,2025-11-06,3.46,Science,Practice Test,33.0,72,Thursday
+600,6577,2025-11-07,4.15,History,Group Study,17.6,67,Friday
+601,6585,2025-11-03,4.58,Math,Notes Review,17.4,52,Monday
+602,6585,2025-11-04,4.96,Computer,Group Study,7.4,86,Tuesday
+603,6585,2025-11-05,4.61,History,Notes Review,40.8,79,Wednesday
+604,6585,2025-11-06,1.12,English,Notes Review,27.4,76,Thursday
+605,6585,2025-11-07,2.49,Science,Practice Test,24.9,88,Friday
+606,6589,2025-11-03,4.4,Science,Flashcards,49.0,76,Monday
+607,6589,2025-11-04,3.85,History,Flashcards,45.4,60,Tuesday
+608,6589,2025-11-05,2.92,History,Flashcards,25.8,72,Wednesday
+609,6589,2025-11-06,3.79,Science,Practice Test,36.9,77,Thursday
+610,6589,2025-11-07,4.84,Math,Flashcards,17.1,66,Friday
+611,6622,2025-11-03,3.76,English,Group Study,57.5,97,Monday
+612,6622,2025-11-04,3.51,Computer,Flashcards,44.6,81,Tuesday
+613,6622,2025-11-05,2.21,Math,Flashcards,12.3,96,Wednesday
+614,6622,2025-11-06,1.3,Science,Flashcards,31.9,93,Thursday
+615,6622,2025-11-07,4.91,English,Pomodoro,48.7,59,Friday
+616,6711,2025-11-03,2.97,Computer,Pomodoro,15.8,95,Monday
+617,6711,2025-11-04,4.64,Math,Practice Test,49.3,87,Tuesday
+618,6711,2025-11-05,3.8,Math,Flashcards,17.1,70,Wednesday
+619,6711,2025-11-06,2.3,Math,Notes Review,42.8,68,Thursday
+620,6711,2025-11-07,1.53,Science,Group Study,13.7,69,Friday
+621,6716,2025-11-03,1.8,Math,Pomodoro,29.0,74,Monday
+622,6716,2025-11-04,4.85,Science,Group Study,44.3,60,Tuesday
+623,6716,2025-11-05,1.77,Math,Flashcards,10.4,58,Wednesday
+624,6716,2025-11-06,4.13,Science,Notes Review,50.9,91,Thursday
+625,6716,2025-11-07,4.08,English,Group Study,23.3,99,Friday
+626,6729,2025-11-03,3.81,Science,Practice Test,50.2,66,Monday
+627,6729,2025-11-04,4.23,English,Flashcards,25.4,78,Tuesday
+628,6729,2025-11-05,4.82,Science,Pomodoro,48.5,82,Wednesday
+629,6729,2025-11-06,1.77,English,Group Study,18.2,84,Thursday
+630,6729,2025-11-07,4.89,Math,Flashcards,29.5,50,Friday
+631,6733,2025-11-03,2.2,Computer,Practice Test,45.7,73,Monday
+632,6733,2025-11-04,3.13,Science,Group Study,44.8,61,Tuesday
+633,6733,2025-11-05,1.24,Math,Group Study,44.2,73,Wednesday
+634,6733,2025-11-06,2.5,English,Pomodoro,27.6,92,Thursday
+635,6733,2025-11-07,2.26,History,Pomodoro,22.9,72,Friday
+636,6780,2025-11-03,2.53,History,Pomodoro,50.6,61,Monday
+637,6780,2025-11-04,1.14,English,Notes Review,49.9,99,Tuesday
+638,6780,2025-11-05,3.7,Science,Practice Test,47.1,67,Wednesday
+639,6780,2025-11-06,1.32,Science,Flashcards,20.1,51,Thursday
+640,6780,2025-11-07,3.75,Math,Group Study,22.9,69,Friday
+641,6809,2025-11-03,3.23,History,Flashcards,11.6,86,Monday
+642,6809,2025-11-04,3.16,Math,Flashcards,38.8,99,Tuesday
+643,6809,2025-11-05,3.49,Math,Notes Review,16.2,92,Wednesday
+644,6809,2025-11-06,3.63,Math,Pomodoro,30.3,91,Thursday
+645,6809,2025-11-07,3.62,History,Group Study,48.6,65,Friday
+646,6915,2025-11-03,4.16,Science,Group Study,48.8,50,Monday
+647,6915,2025-11-04,1.51,Science,Notes Review,36.6,79,Tuesday
+648,6915,2025-11-05,1.08,History,Flashcards,12.9,63,Wednesday
+649,6915,2025-11-06,4.09,History,Group Study,35.4,70,Thursday
+650,6915,2025-11-07,2.49,Computer,Flashcards,6.3,62,Friday
+651,7002,2025-11-03,1.11,Science,Notes Review,33.2,52,Monday
+652,7002,2025-11-04,3.37,History,Practice Test,27.3,61,Tuesday
+653,7002,2025-11-05,2.22,Computer,Notes Review,33.3,52,Wednesday
+654,7002,2025-11-06,4.38,Math,Pomodoro,7.0,61,Thursday
+655,7002,2025-11-07,1.57,English,Pomodoro,6.7,52,Friday
+656,7081,2025-11-03,1.27,Computer,Pomodoro,7.8,81,Monday
+657,7081,2025-11-04,4.94,Math,Pomodoro,10.7,69,Tuesday
+658,7081,2025-11-05,4.41,Computer,Flashcards,47.7,99,Wednesday
+659,7081,2025-11-06,3.01,English,Practice Test,27.3,94,Thursday
+660,7081,2025-11-07,2.35,Science,Practice Test,34.6,95,Friday
+661,7107,2025-11-03,4.99,Computer,Flashcards,33.0,90,Monday
+662,7107,2025-11-04,2.83,Computer,Notes Review,22.3,58,Tuesday
+663,7107,2025-11-05,3.12,Math,Notes Review,42.4,60,Wednesday
+664,7107,2025-11-06,3.36,History,Flashcards,26.9,82,Thursday
+665,7107,2025-11-07,4.53,History,Practice Test,36.7,92,Friday
+666,7186,2025-11-03,1.91,History,Practice Test,53.5,73,Monday
+667,7186,2025-11-04,1.35,Computer,Practice Test,25.8,90,Tuesday
+668,7186,2025-11-05,2.96,History,Pomodoro,35.0,70,Wednesday
+669,7186,2025-11-06,3.15,Science,Flashcards,6.0,90,Thursday
+670,7186,2025-11-07,2.47,Science,Notes Review,24.3,97,Friday
+671,7240,2025-11-03,2.15,Science,Pomodoro,5.7,62,Monday
+672,7240,2025-11-04,4.07,History,Notes Review,40.6,81,Tuesday
+673,7240,2025-11-05,3.92,Computer,Pomodoro,35.9,65,Wednesday
+674,7240,2025-11-06,3.49,Science,Notes Review,46.7,95,Thursday
+675,7240,2025-11-07,2.83,Math,Practice Test,6.7,73,Friday
+676,7265,2025-11-03,1.65,History,Flashcards,35.7,69,Monday
+677,7265,2025-11-04,2.58,English,Pomodoro,38.9,61,Tuesday
+678,7265,2025-11-05,4.34,Science,Notes Review,44.8,87,Wednesday
+679,7265,2025-11-06,2.61,Computer,Pomodoro,58.8,85,Thursday
+680,7265,2025-11-07,4.88,English,Flashcards,45.7,94,Friday
+681,7287,2025-11-03,3.4,Computer,Pomodoro,5.8,69,Monday
+682,7287,2025-11-04,3.99,Math,Group Study,52.1,52,Tuesday
+683,7287,2025-11-05,3.37,Science,Flashcards,33.7,62,Wednesday
+684,7287,2025-11-06,3.51,Computer,Notes Review,20.9,73,Thursday
+685,7287,2025-11-07,1.98,English,Pomodoro,19.9,87,Friday
+686,7304,2025-11-03,2.37,Science,Flashcards,34.0,95,Monday
+687,7304,2025-11-04,2.52,History,Group Study,11.9,65,Tuesday
+688,7304,2025-11-05,2.78,Science,Flashcards,53.0,69,Wednesday
+689,7304,2025-11-06,3.2,Computer,Flashcards,49.8,86,Thursday
+690,7304,2025-11-07,1.41,English,Practice Test,41.8,64,Friday
+691,7506,2025-11-03,3.7,Computer,Pomodoro,41.6,76,Monday
+692,7506,2025-11-04,3.97,History,Practice Test,14.2,62,Tuesday
+693,7506,2025-11-05,4.86,Math,Pomodoro,18.1,63,Wednesday
+694,7506,2025-11-06,4.15,English,Pomodoro,43.5,86,Thursday
+695,7506,2025-11-07,2.3,Computer,Pomodoro,27.8,90,Friday
+696,7574,2025-11-03,1.94,Computer,Group Study,33.5,69,Monday
+697,7574,2025-11-04,3.36,English,Pomodoro,50.4,73,Tuesday
+698,7574,2025-11-05,2.0,Science,Practice Test,59.4,90,Wednesday
+699,7574,2025-11-06,1.37,Science,Practice Test,11.8,83,Thursday
+700,7574,2025-11-07,2.27,Computer,Notes Review,41.4,52,Friday
+701,7637,2025-11-03,3.07,History,Group Study,30.9,86,Monday
+702,7637,2025-11-04,4.9,Computer,Notes Review,52.7,89,Tuesday
+703,7637,2025-11-05,4.51,Math,Notes Review,42.9,58,Wednesday
+704,7637,2025-11-06,2.18,English,Group Study,34.6,63,Thursday
+705,7637,2025-11-07,4.34,Science,Notes Review,15.4,83,Friday
+706,7657,2025-11-03,4.61,Math,Practice Test,11.6,64,Monday
+707,7657,2025-11-04,1.98,Science,Pomodoro,16.7,81,Tuesday
+708,7657,2025-11-05,4.91,Math,Practice Test,13.8,95,Wednesday
+709,7657,2025-11-06,4.39,Computer,Notes Review,33.7,60,Thursday
+710,7657,2025-11-07,3.31,English,Flashcards,51.5,58,Friday
+711,7728,2025-11-03,1.98,Math,Group Study,53.8,80,Monday
+712,7728,2025-11-04,2.48,Computer,Practice Test,13.0,62,Tuesday
+713,7728,2025-11-05,4.43,English,Pomodoro,41.9,83,Wednesday
+714,7728,2025-11-06,1.21,Science,Notes Review,59.5,70,Thursday
+715,7728,2025-11-07,3.83,Computer,Practice Test,6.7,87,Friday
+716,7752,2025-11-03,3.09,English,Group Study,52.5,54,Monday
+717,7752,2025-11-04,3.01,History,Flashcards,53.6,77,Tuesday
+718,7752,2025-11-05,2.99,Science,Notes Review,14.1,96,Wednesday
+719,7752,2025-11-06,2.71,Computer,Flashcards,56.5,73,Thursday
+720,7752,2025-11-07,4.18,History,Flashcards,44.3,78,Friday
+721,7780,2025-11-03,2.61,Computer,Practice Test,45.5,82,Monday
+722,7780,2025-11-04,2.34,Computer,Pomodoro,22.1,95,Tuesday
+723,7780,2025-11-05,2.57,History,Group Study,48.4,73,Wednesday
+724,7780,2025-11-06,4.99,English,Practice Test,27.6,75,Thursday
+725,7780,2025-11-07,1.1,Math,Group Study,58.4,62,Friday
+726,7829,2025-11-03,3.02,Math,Practice Test,7.8,70,Monday
+727,7829,2025-11-04,1.74,Science,Practice Test,29.7,53,Tuesday
+728,7829,2025-11-05,2.82,History,Practice Test,25.8,73,Wednesday
+729,7829,2025-11-06,1.39,Math,Practice Test,14.5,94,Thursday
+730,7829,2025-11-07,4.46,History,Group Study,24.0,50,Friday
+731,7871,2025-11-03,4.3,History,Pomodoro,26.6,51,Monday
+732,7871,2025-11-04,4.66,Computer,Pomodoro,43.8,95,Tuesday
+733,7871,2025-11-05,2.46,Math,Flashcards,12.0,61,Wednesday
+734,7871,2025-11-06,4.4,History,Flashcards,58.0,75,Thursday
+735,7871,2025-11-07,1.93,English,Group Study,32.5,52,Friday
+736,7933,2025-11-03,1.12,English,Group Study,35.7,59,Monday
+737,7933,2025-11-04,1.38,Math,Flashcards,12.4,83,Tuesday
+738,7933,2025-11-05,3.59,Science,Group Study,53.4,86,Wednesday
+739,7933,2025-11-06,1.35,English,Group Study,26.8,75,Thursday
+740,7933,2025-11-07,4.0,History,Group Study,57.3,64,Friday
+741,7998,2025-11-03,1.45,Computer,Group Study,55.9,80,Monday
+742,7998,2025-11-04,4.6,Science,Practice Test,21.6,52,Tuesday
+743,7998,2025-11-05,2.13,Computer,Notes Review,52.4,73,Wednesday
+744,7998,2025-11-06,5.0,Computer,Practice Test,59.2,92,Thursday
+745,7998,2025-11-07,3.24,English,Notes Review,12.9,77,Friday
+746,8021,2025-11-03,3.2,Computer,Flashcards,8.5,90,Monday
+747,8021,2025-11-04,3.64,Computer,Pomodoro,39.8,59,Tuesday
+748,8021,2025-11-05,3.11,Science,Pomodoro,17.5,56,Wednesday
+749,8021,2025-11-06,4.42,History,Practice Test,29.9,85,Thursday
+750,8021,2025-11-07,1.11,Science,Group Study,24.6,99,Friday
+751,8040,2025-11-03,2.91,Math,Flashcards,43.1,82,Monday
+752,8040,2025-11-04,2.92,Computer,Group Study,28.3,94,Tuesday
+753,8040,2025-11-05,1.65,History,Notes Review,11.9,66,Wednesday
+754,8040,2025-11-06,3.88,History,Group Study,33.9,79,Thursday
+755,8040,2025-11-07,2.72,Science,Pomodoro,13.3,76,Friday
+756,8082,2025-11-03,1.33,History,Notes Review,18.8,67,Monday
+757,8082,2025-11-04,2.86,History,Flashcards,22.7,60,Tuesday
+758,8082,2025-11-05,2.42,Computer,Practice Test,45.9,60,Wednesday
+759,8082,2025-11-06,2.89,English,Flashcards,45.5,84,Thursday
+760,8082,2025-11-07,2.95,English,Flashcards,54.0,62,Friday
+761,8125,2025-11-03,3.79,English,Group Study,10.2,57,Monday
+762,8125,2025-11-04,4.46,History,Practice Test,38.7,51,Tuesday
+763,8125,2025-11-05,3.64,Math,Group Study,32.0,66,Wednesday
+764,8125,2025-11-06,1.02,Science,Practice Test,19.7,71,Thursday
+765,8125,2025-11-07,4.49,Computer,Practice Test,23.8,74,Friday
+766,8134,2025-11-03,1.62,Science,Flashcards,35.6,75,Monday
+767,8134,2025-11-04,1.53,Science,Flashcards,7.5,56,Tuesday
+768,8134,2025-11-05,3.8,Math,Flashcards,20.9,51,Wednesday
+769,8134,2025-11-06,1.77,Science,Practice Test,16.6,65,Thursday
+770,8134,2025-11-07,3.7,Computer,Pomodoro,13.9,93,Friday
+771,8155,2025-11-03,4.46,English,Flashcards,51.1,58,Monday
+772,8155,2025-11-04,3.45,Computer,Group Study,41.0,82,Tuesday
+773,8155,2025-11-05,1.66,Math,Flashcards,9.9,57,Wednesday
+774,8155,2025-11-06,3.41,History,Practice Test,51.9,69,Thursday
+775,8155,2025-11-07,2.68,English,Practice Test,52.1,71,Friday
+776,8265,2025-11-03,1.88,English,Practice Test,41.8,50,Monday
+777,8265,2025-11-04,2.04,Science,Notes Review,28.4,84,Tuesday
+778,8265,2025-11-05,2.91,History,Group Study,20.3,56,Wednesday
+779,8265,2025-11-06,1.92,History,Group Study,27.5,97,Thursday
+780,8265,2025-11-07,1.91,Science,Flashcards,21.1,74,Friday
+781,8268,2025-11-03,4.33,History,Pomodoro,48.7,92,Monday
+782,8268,2025-11-04,4.69,Computer,Group Study,10.8,53,Tuesday
+783,8268,2025-11-05,4.55,History,Group Study,58.4,60,Wednesday
+784,8268,2025-11-06,3.96,English,Notes Review,32.1,50,Thursday
+785,8268,2025-11-07,4.05,Science,Notes Review,18.2,66,Friday
+786,8291,2025-11-03,1.94,Science,Flashcards,5.0,88,Monday
+787,8291,2025-11-04,4.62,History,Pomodoro,52.8,92,Tuesday
+788,8291,2025-11-05,1.65,History,Notes Review,42.0,60,Wednesday
+789,8291,2025-11-06,4.58,English,Practice Test,29.5,59,Thursday
+790,8291,2025-11-07,2.64,English,Notes Review,47.4,74,Friday
+791,8298,2025-11-03,2.76,Math,Flashcards,10.7,52,Monday
+792,8298,2025-11-04,2.47,Science,Notes Review,54.9,64,Tuesday
+793,8298,2025-11-05,3.9,History,Notes Review,56.0,98,Wednesday
+794,8298,2025-11-06,3.69,Computer,Flashcards,25.2,51,Thursday
+795,8298,2025-11-07,3.43,Computer,Flashcards,26.5,94,Friday
+796,8314,2025-11-03,3.17,History,Flashcards,5.6,86,Monday
+797,8314,2025-11-04,3.77,Math,Notes Review,56.7,80,Tuesday
+798,8314,2025-11-05,2.91,Math,Pomodoro,8.2,82,Wednesday
+799,8314,2025-11-06,2.23,Computer,Flashcards,34.0,71,Thursday
+800,8314,2025-11-07,2.09,English,Flashcards,57.9,60,Friday
+801,8366,2025-11-03,1.3,Science,Practice Test,34.9,96,Monday
+802,8366,2025-11-04,2.06,Math,Practice Test,40.0,53,Tuesday
+803,8366,2025-11-05,1.79,English,Flashcards,16.6,93,Wednesday
+804,8366,2025-11-06,4.97,History,Flashcards,15.6,78,Thursday
+805,8366,2025-11-07,3.53,English,Notes Review,7.4,52,Friday
+806,8417,2025-11-03,2.94,Computer,Flashcards,59.4,52,Monday
+807,8417,2025-11-04,2.34,Science,Group Study,6.5,54,Tuesday
+808,8417,2025-11-05,4.5,Computer,Pomodoro,36.6,95,Wednesday
+809,8417,2025-11-06,1.66,English,Pomodoro,21.5,59,Thursday
+810,8417,2025-11-07,2.51,Math,Pomodoro,31.0,86,Friday
+811,8426,2025-11-03,1.92,English,Group Study,11.6,66,Monday
+812,8426,2025-11-04,3.42,Math,Notes Review,32.4,84,Tuesday
+813,8426,2025-11-05,4.41,Science,Pomodoro,6.7,72,Wednesday
+814,8426,2025-11-06,4.45,History,Pomodoro,44.7,69,Thursday
+815,8426,2025-11-07,3.98,English,Practice Test,43.2,69,Friday
+816,8431,2025-11-03,1.5,History,Flashcards,20.9,65,Monday
+817,8431,2025-11-04,3.41,History,Group Study,7.7,93,Tuesday
+818,8431,2025-11-05,3.26,Computer,Pomodoro,36.8,70,Wednesday
+819,8431,2025-11-06,1.61,History,Notes Review,53.9,81,Thursday
+820,8431,2025-11-07,4.32,English,Flashcards,23.0,84,Friday
+821,8473,2025-11-03,2.47,Computer,Notes Review,53.4,51,Monday
+822,8473,2025-11-04,2.67,English,Notes Review,47.7,64,Tuesday
+823,8473,2025-11-05,4.33,History,Practice Test,20.0,58,Wednesday
+824,8473,2025-11-06,1.76,Math,Notes Review,35.1,90,Thursday
+825,8473,2025-11-07,3.26,Computer,Group Study,30.8,72,Friday
+826,8511,2025-11-03,4.14,Science,Practice Test,18.1,99,Monday
+827,8511,2025-11-04,4.18,Science,Notes Review,27.1,95,Tuesday
+828,8511,2025-11-05,1.93,Math,Flashcards,39.2,89,Wednesday
+829,8511,2025-11-06,1.36,English,Notes Review,58.2,98,Thursday
+830,8511,2025-11-07,2.22,Science,Pomodoro,38.0,87,Friday
+831,8526,2025-11-03,2.46,English,Pomodoro,21.2,87,Monday
+832,8526,2025-11-04,1.02,History,Notes Review,25.8,74,Tuesday
+833,8526,2025-11-05,2.51,English,Notes Review,9.9,65,Wednesday
+834,8526,2025-11-06,3.29,English,Notes Review,15.7,62,Thursday
+835,8526,2025-11-07,1.09,Computer,Flashcards,58.7,54,Friday
+836,8556,2025-11-03,2.17,English,Flashcards,53.5,84,Monday
+837,8556,2025-11-04,4.69,History,Flashcards,42.6,73,Tuesday
+838,8556,2025-11-05,4.5,Math,Practice Test,36.5,88,Wednesday
+839,8556,2025-11-06,3.37,History,Practice Test,28.3,81,Thursday
+840,8556,2025-11-07,3.48,History,Group Study,32.3,75,Friday
+841,8646,2025-11-03,1.84,English,Notes Review,34.0,52,Monday
+842,8646,2025-11-04,2.01,English,Flashcards,28.0,70,Tuesday
+843,8646,2025-11-05,4.88,History,Group Study,55.4,52,Wednesday
+844,8646,2025-11-06,1.28,Science,Pomodoro,27.6,62,Thursday
+845,8646,2025-11-07,1.13,Science,Practice Test,37.4,72,Friday
+846,8694,2025-11-03,2.19,Computer,Pomodoro,19.1,78,Monday
+847,8694,2025-11-04,3.15,English,Practice Test,52.2,60,Tuesday
+848,8694,2025-11-05,2.69,History,Notes Review,51.0,73,Wednesday
+849,8694,2025-11-06,4.58,History,Notes Review,52.2,54,Thursday
+850,8694,2025-11-07,3.28,Computer,Notes Review,14.2,58,Friday
+851,8721,2025-11-03,1.85,Math,Pomodoro,40.6,91,Monday
+852,8721,2025-11-04,1.84,Math,Practice Test,54.4,81,Tuesday
+853,8721,2025-11-05,3.82,Computer,Pomodoro,32.6,52,Wednesday
+854,8721,2025-11-06,4.02,Science,Flashcards,10.7,82,Thursday
+855,8721,2025-11-07,1.62,Science,Pomodoro,44.2,86,Friday
+856,8774,2025-11-03,4.82,History,Notes Review,9.1,52,Monday
+857,8774,2025-11-04,2.16,English,Pomodoro,49.3,78,Tuesday
+858,8774,2025-11-05,4.22,History,Flashcards,6.6,98,Wednesday
+859,8774,2025-11-06,4.99,Computer,Pomodoro,19.3,88,Thursday
+860,8774,2025-11-07,1.49,Math,Notes Review,52.1,97,Friday
+861,8790,2025-11-03,3.93,Science,Pomodoro,41.8,82,Monday
+862,8790,2025-11-04,2.37,History,Flashcards,23.6,76,Tuesday
+863,8790,2025-11-05,3.01,Science,Practice Test,24.2,58,Wednesday
+864,8790,2025-11-06,1.35,English,Practice Test,45.1,55,Thursday
+865,8790,2025-11-07,1.8,Computer,Practice Test,26.7,94,Friday
+866,8808,2025-11-03,1.32,History,Practice Test,58.9,97,Monday
+867,8808,2025-11-04,2.47,Math,Group Study,58.7,74,Tuesday
+868,8808,2025-11-05,3.32,English,Flashcards,27.3,98,Wednesday
+869,8808,2025-11-06,2.89,Computer,Notes Review,20.0,57,Thursday
+870,8808,2025-11-07,4.51,Math,Practice Test,30.7,64,Friday
+871,8830,2025-11-03,4.97,Math,Notes Review,10.0,56,Monday
+872,8830,2025-11-04,4.42,History,Pomodoro,46.5,78,Tuesday
+873,8830,2025-11-05,1.4,English,Group Study,13.0,76,Wednesday
+874,8830,2025-11-06,3.77,Science,Practice Test,53.2,84,Thursday
+875,8830,2025-11-07,4.37,Computer,Pomodoro,30.9,95,Friday
+876,9047,2025-11-03,4.45,Math,Group Study,7.9,71,Monday
+877,9047,2025-11-04,4.52,History,Practice Test,34.6,80,Tuesday
+878,9047,2025-11-05,3.22,History,Practice Test,40.6,52,Wednesday
+879,9047,2025-11-06,3.34,English,Flashcards,28.1,81,Thursday
+880,9047,2025-11-07,4.36,English,Practice Test,53.3,55,Friday
+881,9056,2025-11-03,1.39,History,Notes Review,37.0,65,Monday
+882,9056,2025-11-04,3.76,Math,Notes Review,34.5,70,Tuesday
+883,9056,2025-11-05,4.12,English,Pomodoro,32.2,67,Wednesday
+884,9056,2025-11-06,3.34,History,Group Study,30.5,65,Thursday
+885,9056,2025-11-07,3.47,Math,Flashcards,7.2,68,Friday
+886,9098,2025-11-03,1.64,Math,Practice Test,11.4,57,Monday
+887,9098,2025-11-04,3.02,Computer,Flashcards,34.4,57,Tuesday
+888,9098,2025-11-05,2.7,English,Flashcards,5.4,66,Wednesday
+889,9098,2025-11-06,2.76,History,Flashcards,32.8,94,Thursday
+890,9098,2025-11-07,2.01,Math,Flashcards,18.6,88,Friday
+891,9144,2025-11-03,3.71,English,Practice Test,11.5,65,Monday
+892,9144,2025-11-04,2.78,Computer,Flashcards,51.5,82,Tuesday
+893,9144,2025-11-05,3.09,History,Pomodoro,30.0,95,Wednesday
+894,9144,2025-11-06,3.97,Computer,Flashcards,25.1,82,Thursday
+895,9144,2025-11-07,3.62,History,Notes Review,20.8,76,Friday
+896,9179,2025-11-03,4.26,History,Group Study,30.3,67,Monday
+897,9179,2025-11-04,2.45,Computer,Practice Test,59.8,75,Tuesday
+898,9179,2025-11-05,2.37,Math,Pomodoro,49.5,78,Wednesday
+899,9179,2025-11-06,3.26,History,Flashcards,39.8,80,Thursday
+900,9179,2025-11-07,3.83,Computer,Pomodoro,15.9,88,Friday
+901,9203,2025-11-03,2.02,History,Pomodoro,52.9,60,Monday
+902,9203,2025-11-04,1.89,History,Flashcards,7.6,88,Tuesday
+903,9203,2025-11-05,3.93,Computer,Flashcards,46.9,72,Wednesday
+904,9203,2025-11-06,4.2,English,Notes Review,18.5,55,Thursday
+905,9203,2025-11-07,2.75,Science,Group Study,18.9,66,Friday
+906,9204,2025-11-03,4.61,Math,Flashcards,8.6,94,Monday
+907,9204,2025-11-04,1.38,Science,Flashcards,27.2,82,Tuesday
+908,9204,2025-11-05,4.64,History,Pomodoro,58.0,91,Wednesday
+909,9204,2025-11-06,4.87,History,Practice Test,22.6,58,Thursday
+910,9204,2025-11-07,2.7,Science,Notes Review,56.6,80,Friday
+911,9239,2025-11-03,2.6,Science,Pomodoro,29.0,90,Monday
+912,9239,2025-11-04,3.42,Computer,Practice Test,7.7,83,Tuesday
+913,9239,2025-11-05,1.07,English,Practice Test,46.6,56,Wednesday
+914,9239,2025-11-06,1.06,Computer,Practice Test,6.3,80,Thursday
+915,9239,2025-11-07,4.99,English,Pomodoro,18.2,97,Friday
+916,9271,2025-11-03,2.7,Computer,Group Study,21.1,73,Monday
+917,9271,2025-11-04,1.0,English,Practice Test,46.2,61,Tuesday
+918,9271,2025-11-05,2.72,Math,Group Study,53.2,82,Wednesday
+919,9271,2025-11-06,3.93,History,Flashcards,29.6,85,Thursday
+920,9271,2025-11-07,1.76,Math,Pomodoro,39.0,66,Friday
+921,9291,2025-11-03,2.57,History,Flashcards,53.4,71,Monday
+922,9291,2025-11-04,4.51,English,Group Study,34.3,64,Tuesday
+923,9291,2025-11-05,1.42,Math,Practice Test,36.5,78,Wednesday
+924,9291,2025-11-06,3.52,Computer,Flashcards,50.9,51,Thursday
+925,9291,2025-11-07,3.23,History,Pomodoro,23.5,67,Friday
+926,9310,2025-11-03,2.06,Computer,Flashcards,27.2,80,Monday
+927,9310,2025-11-04,3.22,Science,Pomodoro,27.4,96,Tuesday
+928,9310,2025-11-05,4.42,Computer,Group Study,25.1,84,Wednesday
+929,9310,2025-11-06,3.1,Math,Pomodoro,26.2,60,Thursday
+930,9310,2025-11-07,1.48,History,Pomodoro,10.2,70,Friday
+931,9377,2025-11-03,2.42,Computer,Notes Review,55.7,87,Monday
+932,9377,2025-11-04,2.28,Science,Notes Review,27.7,97,Tuesday
+933,9377,2025-11-05,1.74,Math,Notes Review,36.0,94,Wednesday
+934,9377,2025-11-06,1.34,English,Practice Test,39.5,68,Thursday
+935,9377,2025-11-07,1.04,Math,Group Study,30.0,59,Friday
+936,9382,2025-11-03,1.69,Math,Flashcards,59.9,82,Monday
+937,9382,2025-11-04,2.41,English,Flashcards,55.0,51,Tuesday
+938,9382,2025-11-05,1.46,English,Flashcards,55.6,52,Wednesday
+939,9382,2025-11-06,4.79,Science,Flashcards,55.2,78,Thursday
+940,9382,2025-11-07,3.8,Math,Group Study,11.4,63,Friday
+941,9410,2025-11-03,2.3,Computer,Flashcards,23.7,98,Monday
+942,9410,2025-11-04,2.9,Science,Practice Test,25.5,91,Tuesday
+943,9410,2025-11-05,3.81,Science,Practice Test,11.0,64,Wednesday
+944,9410,2025-11-06,2.59,Math,Flashcards,45.7,84,Thursday
+945,9410,2025-11-07,4.2,English,Notes Review,30.4,72,Friday
+946,9477,2025-11-03,2.68,Computer,Practice Test,57.9,98,Monday
+947,9477,2025-11-04,4.63,English,Flashcards,24.4,50,Tuesday
+948,9477,2025-11-05,3.27,Science,Practice Test,51.1,60,Wednesday
+949,9477,2025-11-06,1.22,Science,Practice Test,18.0,64,Thursday
+950,9477,2025-11-07,1.23,Math,Practice Test,58.6,96,Friday
+951,9661,2025-11-03,4.56,English,Practice Test,47.9,87,Monday
+952,9661,2025-11-04,1.92,History,Practice Test,7.7,94,Tuesday
+953,9661,2025-11-05,3.72,History,Group Study,53.7,99,Wednesday
+954,9661,2025-11-06,4.25,English,Flashcards,21.4,89,Thursday
+955,9661,2025-11-07,3.06,Science,Pomodoro,28.9,62,Friday
+956,9676,2025-11-03,4.62,English,Practice Test,21.1,63,Monday
+957,9676,2025-11-04,3.63,Math,Practice Test,53.4,87,Tuesday
+958,9676,2025-11-05,3.6,Math,Pomodoro,26.8,53,Wednesday
+959,9676,2025-11-06,4.05,Math,Pomodoro,28.9,70,Thursday
+960,9676,2025-11-07,4.83,Science,Practice Test,55.0,68,Friday
+961,9696,2025-11-03,1.19,English,Group Study,42.2,60,Monday
+962,9696,2025-11-04,4.75,Science,Practice Test,56.0,58,Tuesday
+963,9696,2025-11-05,1.25,English,Pomodoro,29.5,59,Wednesday
+964,9696,2025-11-06,3.64,English,Practice Test,47.7,80,Thursday
+965,9696,2025-11-07,4.09,History,Group Study,27.4,74,Friday
+966,9707,2025-11-03,3.45,History,Practice Test,45.6,94,Monday
+967,9707,2025-11-04,1.73,Math,Practice Test,43.0,86,Tuesday
+968,9707,2025-11-05,4.06,Math,Pomodoro,28.5,65,Wednesday
+969,9707,2025-11-06,3.9,Science,Flashcards,42.0,55,Thursday
+970,9707,2025-11-07,4.56,Computer,Practice Test,14.7,68,Friday
+971,9806,2025-11-03,2.54,Computer,Notes Review,59.1,99,Monday
+972,9806,2025-11-04,3.12,Math,Notes Review,9.0,56,Tuesday
+973,9806,2025-11-05,1.88,English,Notes Review,22.9,58,Wednesday
+974,9806,2025-11-06,4.08,Math,Group Study,45.2,73,Thursday
+975,9806,2025-11-07,4.74,Computer,Practice Test,22.7,74,Friday
+976,9812,2025-11-03,4.11,Computer,Group Study,56.6,84,Monday
+977,9812,2025-11-04,4.99,Science,Notes Review,57.1,66,Tuesday
+978,9812,2025-11-05,3.19,Math,Practice Test,33.0,57,Wednesday
+979,9812,2025-11-06,4.17,English,Flashcards,32.8,64,Thursday
+980,9812,2025-11-07,2.27,Computer,Flashcards,13.6,97,Friday
+981,9826,2025-11-03,3.16,History,Notes Review,56.1,73,Monday
+982,9826,2025-11-04,1.26,History,Pomodoro,28.7,53,Tuesday
+983,9826,2025-11-05,2.71,Math,Notes Review,35.4,88,Wednesday
+984,9826,2025-11-06,2.61,Computer,Flashcards,28.9,66,Thursday
+985,9826,2025-11-07,2.53,English,Pomodoro,34.1,50,Friday
+986,9842,2025-11-03,4.69,English,Pomodoro,59.4,56,Monday
+987,9842,2025-11-04,1.2,Science,Flashcards,18.5,82,Tuesday
+988,9842,2025-11-05,2.18,History,Practice Test,6.2,99,Wednesday
+989,9842,2025-11-06,1.31,Math,Pomodoro,31.2,91,Thursday
+990,9842,2025-11-07,3.28,English,Flashcards,53.2,77,Friday
+991,9872,2025-11-03,4.23,Science,Notes Review,43.2,68,Monday
+992,9872,2025-11-04,2.7,Computer,Pomodoro,20.6,76,Tuesday
+993,9872,2025-11-05,2.91,Math,Group Study,10.7,99,Wednesday
+994,9872,2025-11-06,1.11,Math,Group Study,33.8,63,Thursday
+995,9872,2025-11-07,3.47,History,Flashcards,54.8,56,Friday
+996,9985,2025-11-03,4.26,History,Flashcards,20.6,70,Monday
+997,9985,2025-11-04,4.05,Computer,Pomodoro,12.1,89,Tuesday
+998,9985,2025-11-05,2.38,Science,Practice Test,25.4,86,Wednesday
+999,9985,2025-11-06,1.39,Math,Flashcards,7.2,94,Thursday
+1000,9985,2025-11-07,3.42,Math,Flashcards,40.5,79,Friday
