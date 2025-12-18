@@ -2,7 +2,7 @@
 
 Study Track is a comprehensive web application designed to track student study habits, analyze performance, and provide personalized recommendations. It combines a robust FastAPI backend with a modern Next.js frontend, leveraging data science techniques (K-Means Clustering) to categorize students and offer tailored insights.
 
-## 🎯 Problem Statement
+## Problem Statement
 Students often struggle to track their study habits effectively. They may spend hours studying but achieve low retention due to distractions or inefficient methods. Without data-driven feedback, it is difficult for them to identify areas for improvement.
 
 **Study Track** solves this by:
@@ -11,7 +11,7 @@ Students often struggle to track their study habits effectively. They may spend 
 3.  **Categorizing** students to identify those who need intervention.
 4.  **Recommending** specific, actionable strategies to improve grades.
 
-## 🧠 algorithmic Logic & Clustering
+## algorithmic Logic & Clustering
 
 The project uses a **hybrid approach** combining Unsupervised Learning (K-Means) and Rule-Based logic.
 
@@ -35,7 +35,7 @@ While clustering provides the high-level profile, our recommendation engine uses
 *   **If Study Time < 2 hours**: Suggests gradually increasing daily study time.
 *   **If Quiz Score < 60%**: Suggests revising basics and practicing easier questions first.
 
-## 🚀 Features
+## Features
 
 ### For Students
 *   **Personalized Dashboard**: View your study progress, quiz scores, and efficiency metrics.
@@ -47,7 +47,7 @@ While clustering provides the high-level profile, our recommendation engine uses
 *   **Clustering Insights**: Group students into categories (e.g., "High Efficiency," "Needs Focus") using machine learning to identify at-risk students.
 *   **Data Management**: View and manage student records and study logs.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 *   **Framework**: [Next.js](https://nextjs.org/) (React)
@@ -60,7 +60,7 @@ While clustering provides the high-level profile, our recommendation engine uses
 *   **ORM**: SQLAlchemy
 *   **Data Science**: Scikit-learn (for Clustering), Pandas
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Study_track/
@@ -77,14 +77,14 @@ Study_track/
 └── README.md           # Project documentation
 ```
 
-## 📋 Prerequisites
+## Prerequisites
 
 Ensure you have the following installed:
 *   **Python 3.9+**
 *   **Node.js 18+** & **npm**
 *   **PostgreSQL** (Running locally)
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Environment Setup
 Create a `.env` file in the root `Study_track` directory with your database and email credentials. You can use the `env.example` as a template if available, or follow this format:
@@ -153,7 +153,7 @@ npm run dev
 ```
 The application will be running at `http://localhost:3000`.
 
-## 🧪 Usage
+## Usage
 
 1.  **Student Login**: Go to `http://localhost:3000`. Sign up or login with your email. You will receive an OTP for verification.
 2.  **Admin Login**: Navigate to the login page and select "Admin". Use the credentials created via `create_admin.py` (or verify in DB).
