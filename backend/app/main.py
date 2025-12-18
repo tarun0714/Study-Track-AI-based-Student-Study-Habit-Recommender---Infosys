@@ -25,6 +25,11 @@ app.add_middleware(
 
 
 
+
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to Study Track API. Visit /docs for Swagger UI."}
+
 @app.get("/health")
 def health_check():
     return {"status": "ok"}

@@ -4,6 +4,19 @@ from sqlalchemy.orm import Session
 from . import models
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+import joblib
+import os
+
+# Define paths
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+BACKEND_DIR = os.path.dirname(APP_DIR)
+MODEL_DIR = os.path.join(BACKEND_DIR, "model")
+if not os.path.exists(MODEL_DIR):
+    os.makedirs(MODEL_DIR)
+
+MODEL_PATH = os.path.join(MODEL_DIR, "kmeans_model.pkl")
+SCALER_PATH = os.path.join(MODEL_DIR, "scaler.pkl")
+META_PATH = os.path.join(MODEL_DIR, "cluster_meta.pkl")
 
 def apply_clustering(db: Session):
     """
@@ -51,6 +64,11 @@ def apply_clustering(db: Session):
     labels = kmeans.fit_predict(X_scaled)
     agg_df['Cluster'] = labels
 
+    # Save artifacts for recommender
+    joblib.dump(kmeans, MODEL_PATH)
+    joblib.dump(scaler, SCALER_PATH)
+    joblib.dump({"feature_cols": features}, META_PATH)
+
     # 6. Interpret Clusters
     # We characterize clusters by their centroids' relative performance
     # E.g., High Quiz Score + High Study Hour = High Achiever
@@ -78,6 +96,14 @@ def apply_clustering(db: Session):
         label, insight = rank_labels[rank]
         cluster_mapping[cluster_id] = (label, insight)
 
+    # Save artifacts including mapping
+    # We update the meta dump here to include the dynamic mapping
+    meta_data = {
+        "feature_cols": features,
+        "cluster_mapping": cluster_mapping
+    }
+    joblib.dump(meta_data, META_PATH)
+
     # 7. Update Database
     for _, row in agg_df.iterrows():
         s_id = row['student_id']
@@ -95,3 +121,14 @@ def apply_clustering(db: Session):
         "message": f"Clustering applied to {len(agg_df)} students.",
         "clusters_found": len(cluster_stats)
     }
+
+if __name__ == "__main__":
+    from app.database import SessionLocal
+    db = SessionLocal()
+    try:
+        print(apply_clustering(db))
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+    finally:
+        db.close()

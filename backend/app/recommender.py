@@ -25,13 +25,17 @@ FEATURE_COLS = _meta["feature_cols"]  # ["study_hour", "distraction_time", "quiz
 
 
 def _cluster_profile(cluster_id: int) -> str:
+    # Use dynamically saved mapping if available, else fallback
+    mapping = _meta.get("cluster_mapping", {})
+    if cluster_id in mapping:
+        label, insight = mapping[cluster_id]
+        return f"{label} - {insight}"
+    
+    # Fallback/Default profiles (should rarely be hit if clustering is run)
     profiles = {
-        0: "Moderate study time, moderate distractions, average quiz performance.",
-        1: "High study time, low distractions, strong quiz performance.",
-        2: "Low study time, high distractions, weaker quiz scores.",
-        3: "Inconsistent study habits with fluctuating performance.",
-        4: "Balanced study patterns with good understanding.",
-        5: "Very high effort but inconsistent outcomes.",
+        0: "Needs Focus - Support needed.",
+        1: "Balanced - Consistent performance.",
+        2: "High Achiever - Excellent results."
     }
     return profiles.get(cluster_id, "General study behavior pattern.")
 
@@ -45,8 +49,17 @@ def generate_recommendations(
     Uses the trained KMeans model and scaler saved in backend/model.
     Inputs must match your dataset's units and naming.
     """
-    x = np.array([[study_hour, distraction_time, quiz_score]])
-    x_scaled = _scaler.transform(x)
+
+    x_input = np.array([[study_hour, distraction_time, quiz_score]])
+    
+    # Feature engineering to match clustering.py
+    # features = ['study_hour', 'distraction_time', 'quiz_score', 'Efficiency', 'Quiz_per_hour']
+    efficiency = study_hour / (distraction_time + 0.001)
+    quiz_per_hour = quiz_score / (study_hour + 0.001)
+    
+    x_full = np.array([[study_hour, distraction_time, quiz_score, efficiency, quiz_per_hour]])
+    
+    x_scaled = _scaler.transform(x_full)
     cluster_id = int(_kmeans.predict(x_scaled)[0])
 
     profile_desc = _cluster_profile(cluster_id)
