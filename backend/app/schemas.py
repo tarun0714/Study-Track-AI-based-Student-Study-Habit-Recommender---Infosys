@@ -60,6 +60,7 @@ class RecommendationOut(BaseModel):
     cluster_id: int
     cluster_profile: str
     recommendations: List[str]
+    personalized_advice: Optional[str] = None
 
 class ClusterStat(BaseModel):
     cluster_label: str

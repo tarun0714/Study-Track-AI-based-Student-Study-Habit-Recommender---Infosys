@@ -86,8 +86,20 @@ def generate_recommendations(
     else:
         suggestions.append("Challenge yourself with tougher problems and timed tests.")
 
+    # Personalized Advice Logic
+    advice = "Keep studying consistent!"
+    if efficiency < 0.5:
+        advice = "Your study efficiency is low. Try to reduce distractions to get more out of your study time."
+    elif quiz_score < 70 and study_hour > 4:
+        advice = "You are studying a lot but scores are not reflecting it. Try changing your study method (e.g. use active recall)."
+    elif quiz_score > 90:
+        advice = "Excellent work! You are mastering the material. Consider helping peers or exploring advanced topics."
+    elif distraction_time > 45:
+        advice = "High distraction detected. Consider using website blockers or studying in a quieter environment."
+
     return {
         "cluster_id": cluster_id,
         "cluster_profile": profile_desc,
         "recommendations": suggestions,
+        "personalized_advice": advice,
     }
